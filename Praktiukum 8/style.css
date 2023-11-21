@@ -1,0 +1,17 @@
+img {
+    width: 10%;
+}
+nav {
+    background-color: aqua;
+}
+nav ul {
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+}
+nav li.abaout {
+    margin-left: auto;
+}
+nav li {
+    padding-left: 2em;
+}
